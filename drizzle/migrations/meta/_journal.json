@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793277759527,
+      "tag": "0000_crate_control_tower",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793278542458,
+      "tag": "0001_fix_seed_where",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793282528236,
+      "tag": "0002_real_auth_profiles",
+      "breakpoints": true
+    }
+  ]
+}
