@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 This project was built with [Lovable](https://lovable.dev).
@@ -27,3 +28,6 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+=======
+# Reverse-logistics-reusable-crates
+>>>>>>> 864cac94aeb3201d06f7657690181070cf8ab9da
